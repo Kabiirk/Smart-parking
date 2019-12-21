@@ -8,6 +8,6 @@ The Softwares Used were :
     A GUI to burn Hex files onto the microcontroller which is less compliated to do as compared to AVRdudes.
 * #### [AVRdudes](https://www.nongnu.org/avrdude/)
     A CLI to burn Hex files and do other operations onto the microcontroller.
-* #### [USBASP](https://www.fischl.de/usbasp/)
+* #### [USBasp](https://www.fischl.de/usbasp/)
     USBasp is a USB in-circuit programmer for Atmel AVR controllers. It simply consists of an ATMega88 or an ATMega8 and a couple of passive components. The programmer uses a firmware-only USB driver, no special USB controller is needed.
     Download the respective drivers for it or it won't work !
