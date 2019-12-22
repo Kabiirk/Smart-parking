@@ -1,5 +1,5 @@
 # Smart Parking
-Objective of this Project was to ﬁnd location of an empty Parking slot using a mobile application. Designed around embedded systems , it involved interface between Microcontrollers viz . **ESP8266 (NodeMCU)** & **Atmega16A** and allowed for serial communication between them.
+Objective of this Project was to ﬁnd location of an empty Parking slot using a mobile application. Designed around embedded systems , it involved interface between Microcontrollers viz . **ESP8266 (NodeMCU)** & **Atmega16A** & **Atmega32** and allowed for serial communication between them.
 
 The Softwares Used were :
 * #### [Atmel Studio 7.0](https://www.microchip.com/mplab/avr-support/atmel-studio-7)
